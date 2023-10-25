@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartoesVisitas", "CartoesVisitas\CartoesVisitas.csproj", "{D928D80B-10C0-42E9-AB42-0390E1C86AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D928D80B-10C0-42E9-AB42-0390E1C86AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D928D80B-10C0-42E9-AB42-0390E1C86AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D928D80B-10C0-42E9-AB42-0390E1C86AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D928D80B-10C0-42E9-AB42-0390E1C86AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
