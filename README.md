@@ -20,3 +20,17 @@
     git add .
     git commit -am "Primeiro commit"
 ```
+
+### 5 - Criar o repositório no GitHub
+
+### 6 - Adicionar o *remote* no repositório local
+
+```
+    git remote add origin https://github.com/olucassantos/CartoesVisitas.git
+```
+
+### 7 - Fazer o push do repositório
+```
+    git push -u origin master
+```
+O -u é apenas no commit de criação.
